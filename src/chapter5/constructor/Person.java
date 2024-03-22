@@ -1,6 +1,6 @@
 package chapter5.constructor;
 
-//생성자 예제(Contructor)
+//생성자 예제(Constructor)
 public class Person {
 
 	//필드
